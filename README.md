@@ -1,4 +1,4 @@
-# TodoList gRPC APIs
+# Todo List gRPC APIs
 TODO list project built using .NET 7 gRPC, MongoDB, Redis, and Docker. 
 
 ## Requirements
