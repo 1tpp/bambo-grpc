@@ -1,4 +1,4 @@
-# BAMBOO gRPC APIs
+# BAMBOO - TodoList gRPC APIs
 
 ## Introduction
 BAMBOO is a TODO list project built using .NET 7 gRPC, MongoDB, Redis, and Docker. 
